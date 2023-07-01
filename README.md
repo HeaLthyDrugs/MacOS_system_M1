@@ -1,8 +1,12 @@
 ## Hello World 👋
 mac OS simulator using HTML, CSS, and JavaScript 😀
 
+Live Preview :
+https://macos-system-m1-glock99.netlify.app/
+
 Try it now! :
 https://github.com/HeaLthyDrugs/MacOS_system_M1
+
 
 <p align="center">
   Sample Desktop Application 👇
